@@ -8,7 +8,6 @@ A simple graphical **Snake Game** developed in Python using `tkinter`. This proj
 
 ### 1. Install Required Tools
 
-- Python (for development)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 - [VcXsrv](https://sourceforge.net/projects/vcxsrv/) (for X11 GUI support on Windows)
 
